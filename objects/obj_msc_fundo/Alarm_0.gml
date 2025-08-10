@@ -1,0 +1,1 @@
+audio_play_sound(som_msc_fundo, 5, true, 0.4, 7.05);

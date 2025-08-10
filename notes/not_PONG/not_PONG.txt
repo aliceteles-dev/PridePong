@@ -1,0 +1,66 @@
+O objetivo é recriar o PONG, mas do meu jeito.
+
+1) Importar/desenhar as sprites do jogo - FEITO
+
+2) Montar o layout inicial das rooms - FEITO
+
+3) Programar as mecânicas do jogo - FEITO
+	a)	Fazer a bolinha se mover - FEITO
+		Fazer a bolinha se mover em direções "aleatórias" - FEITO
+		Fazer a bolinha não sair pelas verticais da room - FEITO
+		Fazer ela quicar nas raquetes e nas verticais da room -FEITO
+		Fazer ela ter um incremento de velocidade - FEITO
+		//Fazer ela ficar girando - FEITO
+		Fazer com que ela tenha um novo delay após marcado um gol - FEITO
+		
+	b)	Criar um sistema de pontuação - FEITO
+		Fazer os gols - FEITO
+		Associar os gols aos respectivos jogadores - FEITO
+		Criar um objeto pontos para exibir os gols na tela - FEITO
+		Definir o fim do jogo quando um player atinge a pontuação máxima - FEITO
+		
+	c)	Programar a IA da raquete dois - FEITO
+		Criar uma variável para definir se o jogo é de um ou dois players - FEITO
+		Programar a movimentação da raquete de acordo com a velocidade da bolinha - FEITO
+		Limitar a velocidade da raquete, tanto máxima quanto a mínima - FEITO
+
+4)	Programar os sons e músicas do jogo - FEITO
+	a) Associar um som às colisões da bolinha - FEITO
+	b) Colocar uma música de fundo (opcional), para tocar depois de apertar o botão jogar. - FEITO
+
+5) Programar a sala inicial - FEITO
+	a)	Programando o botão de iniciar: - FEITO
+		Fazer o botão escrever "Jogar" - FEITO
+		Fazer a animação do sprite só mudar quando o mouse entra - FEITO
+		Fazer o botão funcionar quando o player clicar nele - FEITO
+		
+	b) Programando o botão de dois jogadores - FEITO
+		Associar a variável de 1 ou 2 players a ele - FEITO
+		Fazer o texto mudar de acordo com essa variável - FEITO
+		Fazer a animação do sprite só mudar quando o mouse entra - FEITO
+
+6) Polir
+		Encontrar e corrigir bugs - FEITO
+		Melhorar a experiência para o player - aparência, sons, música... - FEITO
+		
+7) TRANSFORMAR EM UM JOGO TROL
+	a) Quando a partida iniciar, escrever: "Quem perder é gay!" - E depois de alguns segundos, 
+	escrever em seguida: "Quem ganhar é gay também!"  (não implementado)
+	b) Quando acabar a partida, trocar para uma terceira room que vai passar a mensagem:
+	"FELIZ MÊS DO ORGULHO LGBT!" - Com efeitos de fogos de artifício (opcional) - FEITO
+	
+8) Fluxo do jogo: Vai ter nessa terceira sala um botão escrito reiniciar. Ao apertar nele, 
+o jogo volta para a tela inicial. - FEITO
+
+9)	SALA FINAL
+	Programar o botão de reiniciar. - FEITO
+	a)	Ele vai aparecer na tela depois de 2 segundos //de fogos de artifício// - FEITO
+	b)	Se o P1 ganhar, tocar we are the champions; se o p2 ganhar em modo multiplayer, também; - FEITO
+		se for modo solo e o p1 perder, //tocar take me to church...//  - FEITO
+		
+		
+
+//LEMBRETE!!!!!!
+//RETIRAR A POSSIBILIDADE DA BOLINHA COMEÇAR A SE MOVER NUM ÂNGULO RASO. - FEITO
+	
+	

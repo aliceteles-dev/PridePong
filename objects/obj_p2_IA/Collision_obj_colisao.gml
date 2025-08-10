@@ -1,0 +1,1 @@
+//Impedindo a raquete de sair da room.
