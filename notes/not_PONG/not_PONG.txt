@@ -43,10 +43,8 @@ O objetivo é recriar o PONG, mas do meu jeito.
 		Encontrar e corrigir bugs - FEITO
 		Melhorar a experiência para o player - aparência, sons, música... - FEITO
 		
-7) TRANSFORMAR EM UM JOGO TROL
-	a) Quando a partida iniciar, escrever: "Quem perder é gay!" - E depois de alguns segundos, 
-	escrever em seguida: "Quem ganhar é gay também!"  (não implementado)
-	b) Quando acabar a partida, trocar para uma terceira room que vai passar a mensagem:
+7) Sala da vitória:
+	Quando acabar a partida, trocar para uma terceira room que vai passar a mensagem:
 	"FELIZ MÊS DO ORGULHO LGBT!" - Com efeitos de fogos de artifício (opcional) - FEITO
 	
 8) Fluxo do jogo: Vai ter nessa terceira sala um botão escrito reiniciar. Ao apertar nele, 
@@ -56,7 +54,7 @@ o jogo volta para a tela inicial. - FEITO
 	Programar o botão de reiniciar. - FEITO
 	a)	Ele vai aparecer na tela depois de 2 segundos //de fogos de artifício// - FEITO
 	b)	Se o P1 ganhar, tocar we are the champions; se o p2 ganhar em modo multiplayer, também; - FEITO
-		se for modo solo e o p1 perder, //tocar take me to church...//  - FEITO
+
 		
 		
 
